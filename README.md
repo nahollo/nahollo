@@ -10,7 +10,3 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-<div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahollo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
