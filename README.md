@@ -10,3 +10,7 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+<div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nahollo&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
