@@ -5,7 +5,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
   <a href="https://na-hollo.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-</a><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+</a>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 </div>
 <div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
