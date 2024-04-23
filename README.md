@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=The&nbsp;journey&nbsp;is&nbsp;the&nbsp;reward.&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahollo&show_icons=true&theme=radical" />
 </p>
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=The&nbsp;journey&nbsp;is&nbsp;the&nbsp;reward.&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🏎️🏍️&fontAlign=70)
 
 <div>
