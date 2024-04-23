@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=90&section=header&text=The&nbsp;journey&nbsp;is&nbsp;the&nbsp;reward.&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=The&nbsp;journey&nbsp;is&nbsp;the&nbsp;reward.&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55">
 </p>
 
 
