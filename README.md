@@ -1,6 +1,8 @@
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahollo&show_icons=true&theme=radical)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahollo&show_icons=true&theme=radical" />
+</p>
+
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Hello,&nbsp;world!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🏎️🏍️&fontAlign=70)
 
