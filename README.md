@@ -10,16 +10,16 @@
 
 
 <div>
+<a href="mailto:skgudwlsdlrj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:skgudwlsdlrj@gmail.com"/">
+</a>
+  
 <a href="https://na-hollo.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" size = 100>
 </a>
   
 <a href="https://github.com/nahollo/">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:skgudwlsdlrj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:skgudwlsdlrj@gmail.com"/">
 </a>
 </div>
 
