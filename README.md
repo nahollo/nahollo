@@ -5,7 +5,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahollo&show_icons=true&theme=radical" />
 </p>
-  
+
+<br>
+skgudwlsdlrj@gmail.com
+<br>
+
 <div>
 <a href="https://na-hollo.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" size = 100>
