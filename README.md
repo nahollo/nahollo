@@ -7,7 +7,9 @@
 </p>
 
 <br>
-<a href="mailto:skgudwlsdlrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwlsdlrj@gmail.com"/></a>
+<a href="mailto:skgudwlsdlrj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:skgudwlsdlrj@gmail.com"/">
+</a>
 
 <br>
 
