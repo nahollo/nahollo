@@ -2,12 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=The&nbsp;journey&nbsp;is&nbsp;the&nbsp;reward.&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55">
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahollo&show_icons=true&theme=radical" />
 </p>
   
-
 <div>
 <a href="https://na-hollo.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" size = 100>
@@ -16,15 +14,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
+
 <div>
-
-
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React&nbsp;Native-212121?style=for-the-badge&logo=react&logoColor=#25D2F5">
 <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
