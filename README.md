@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/React&nbsp;Native-212121?style=for-the-badge&logo=react&logoColor=#25D2F5">
 <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
