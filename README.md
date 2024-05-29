@@ -30,18 +30,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React&nbsp;Native-212121?style=for-the-badge&logo=react&logoColor=#25D2F5">
 <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
-
-
-  
 <br>
-<img src="https://img.shields.io/badge/amazon rds-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/amazon rds-569A31?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<br>
-
-
-
-  
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
